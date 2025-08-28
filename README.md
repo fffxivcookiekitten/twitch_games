@@ -29,42 +29,42 @@
 | GTA 4: DE                              |
 | GTA 5                                  |
 | Heavy Rain                             |
-| HITMAN                                 |
-| HITMAN 2                               |
-| Hitman: Blood Money                    |
-| Hitman: Absolution                     |
-| HITMAN Wold of Assassination           |
-| House Flipper                          |
-| House Flipper 2                        |
-| Into the Dead: Our Darkest Days        |
-| The Last of Us Part 1                  |
-| Life is Strange                        |
-| Life is Strange 2                      |
-| Life is Strange: Before the Storm      |
-| Life is Strange: True Colors           |
-| LOCKDOWN Protocol                      |
-| Mafia: DE                              |
-| Mafia 2: DE                            |
-| METAL GEAR SOLID 1                     |
-| METAL GEAR SOLID 2                     |
-| METAL GEAR SOLID 3                     |
-| METAL GEAR SOLID: DELTA (first play)   |
-| METAL GEAR SOLID 5: GZ                 |
-| METAL GEAR SOLID 5: TPP                |
-| Metro 2033 Redux                       |
-| Metro Exodus                           |
-| Metro: Last Light                      |
-| New Cycle                              |
-| No Place Like Home                     |
-| PowerWash Simulator                    |
-| Prey                                   |
-| Punch Club                             |
-| Ready or Not                           |
-| Red Dead Redemption 2                  |
-| Resident Evil 1 Remastered             |
-| Resident Evil 0                        |
-| Resident Evil 2 Remastered             |
-| Resident Evil 3 Remastered             |
+| HITMAN                                   |
+| HITMAN 2                                 |
+| Hitman: Blood Money                      |
+| Hitman: Absolution                       |
+| HITMAN Wold of Assassination             |
+| House Flipper                            |
+| House Flipper 2                          |
+| Into the Dead: Our Darkest Days          |
+| The Last of Us Part 1                    |
+| Life is Strange                          |
+| Life is Strange 2                        |
+| Life is Strange: Before the Storm        |
+| Life is Strange: True Colors             |
+| LOCKDOWN Protocol                        |
+| Mafia: DE                                |
+| Mafia 2: DE                              |
+| METAL GEAR SOLID 1                       |
+| METAL GEAR SOLID 2                       |
+| METAL GEAR SOLID 3                       |
+| METAL GEAR SOLID: DELTA (first play)     |
+| METAL GEAR SOLID 5: GZ                   |
+| METAL GEAR SOLID 5: TPP                  |
+| Metro 2033 Redux                         |
+| Metro Exodus                             |
+| Metro: Last Light                        |
+| New Cycle                                |
+| No Place Like Home                       |
+| PowerWash Simulator                      |
+| Prey                                     |
+| Punch Club                               |
+| Ready or Not                             |
+| Red Dead Redemption 2                    |
+| Resident Evil 1 Remastered               |
+| Resident Evil 0                          |
+| Resident Evil 2 Remastered               |
+| Resident Evil 3 Remastered               |
 | Resident Evil 4                          |
 | Resident Evil 4 Remastered               |
 | Resident Evil 5                          |
