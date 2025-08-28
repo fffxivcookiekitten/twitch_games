@@ -65,39 +65,39 @@
 | Resident Evil 0                        |
 | Resident Evil 2 Remastered             |
 | Resident Evil 3 Remastered             |
-| Resident Evil 4                        |
-| Resident Evil 4 Remastered             |
-| Resident Evil 5                        |
-| resident Evil 6                        |
-| Resident Evil 7                        |
-| Resident Evil 8                        |
-| Resident Evil 8 - Rose DLC             |
-| Resident Evil Revelations              |
-| Resident Evil Revelations 2            |
-| Saints Row 2 (first play)              |
-| Saints Row: The Third (first play)     |
-| Saints Row 4 (first play)              |
-| Spec Ops: The Line                     |
-| STALKER 2: Heart of Chornobyl          |
-| STALKER: Call of Pripyat               | 
-| STALKER: Clear Sky                     |
-| STALKER: Shadow of Chornobyl           |
-| Stardew Valley                         |
-| Stray                                  |
-| The Alters                             |
-| The Long Dark                          |
-| Thief                                  |
-| Thief Simulator                        |
-| Thief Simulator 2                      |
-| This War of Mine                       |
-| Tom Clancy's Ghost Recon Wildlands     |
-| Tom Clancy's Splinter Cell             |
+| Resident Evil 4                          |
+| Resident Evil 4 Remastered               |
+| Resident Evil 5                          |
+| resident Evil 6                          |
+| Resident Evil 7                          |
+| Resident Evil 8                          |
+| Resident Evil 8 - Rose DLC               |
+| Resident Evil Revelations                |
+| Resident Evil Revelations 2              |
+| Saints Row 2 (first play)                |
+| Saints Row: The Third (first play)       |
+| Saints Row 4 (first play)                |
+| Spec Ops: The Line                       |
+| STALKER 2: Heart of Chornobyl            |
+| STALKER: Call of Pripyat                 | 
+| STALKER: Clear Sky                       |
+| STALKER: Shadow of Chornobyl             |
+| Stardew Valley                           |
+| Stray                                    |
+| The Alters                               |
+| The Long Dark                            |
+| Thief                                    |
+| Thief Simulator                          |
+| Thief Simulator 2                        |
+| This War of Mine                         |
+| Tom Clancy's Ghost Recon Wildlands       |
+| Tom Clancy's Splinter Cell               |
 | Tom Clancy's Splinter Cell: Chaos Theory |
-| Tom Clancy's Splinter Cell: Conviction
-| The Walking Dead
-| The Walking Dead: A New Frontier
-| The Walking Dead: Michonne
-| The Walking Dead: Season Two
-| The Walking Dead: The Final Season
-| The Walking Dead: The Telltale DE Series
-| Watch Dogs
+| Tom Clancy's Splinter Cell: Conviction   |
+| The Walking Dead                         |
+| The Walking Dead: A New Frontier         |
+| The Walking Dead: Michonne               |
+| The Walking Dead: Season Two             |
+| The Walking Dead: The Final Season       |
+| The Walking Dead: The Telltale DE Series |
+| Watch Dogs                               |
