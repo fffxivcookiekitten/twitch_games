@@ -70,7 +70,7 @@
 | Resident Evil 5                          |                     |                      |
 | resident Evil 6                          |                     |                      |
 | Resident Evil 7                          |                     |                      |
-| Resident Evil 8                          | August 2025         | August 2025          |
+| Resident Evil 8                          | 17.08.2025          | 17.08.2025           |
 | Resident Evil 8 - Rose DLC               |                     |                      |
 | Resident Evil Revelations                |                     |                      |
 | Resident Evil Revelations 2              |                     |                      |
