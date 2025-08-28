@@ -1,3 +1,5 @@
+you found a game in my list you want to see? no problem. you can make a pull request or send me a DM over discord and i write it down.
+
 | Spiel / Game                             | Start               | End                  |
 |------------------------------------------|---------------------|----------------------|
 | Act of War: Direct Action                |                     |                      |
