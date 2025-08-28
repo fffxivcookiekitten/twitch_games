@@ -74,6 +74,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Resident Evil 7                          |                     |                      |
 | Resident Evil 8                          | 17.08.2025          | 17.08.2025           |
 | Resident Evil 8 - Rose DLC               |                     |                      |
+| Resident Evil 9 -Reqiuem (first play)    |                     |                      |
 | Resident Evil Revelations                |                     |                      |
 | Resident Evil Revelations 2              |                     |                      |
 | Saints Row 2 (first play)                |                     |                      |
