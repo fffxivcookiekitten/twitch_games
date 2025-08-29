@@ -45,7 +45,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Life is Strange: Before the Storm        |                     |                      |
 | Life is Strange: True Colors             |                     |                      |
 | LOCKDOWN Protocol                        |                     |                      |
-| Mafia: DE                                |                     |                      |
+| Mafia: DE                                | 29.08.2025          |                      |
 | Mafia 2: DE                              |                     |                      |
 | METAL GEAR SOLID 1                       |                     |                      |
 | METAL GEAR SOLID 2                       |                     |                      |
@@ -73,7 +73,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | resident Evil 6                          |                     |                      |
 | Resident Evil 7                          |                     |                      |
 | Resident Evil 8                          | 17.08.2025          | 17.08.2025           |
-| Resident Evil 8 - Rose DLC               |                     |                      |
+| Resident Evil 8 - Rose DLC               | 28.08.2025          | 28.08.2025           |
 | Resident Evil 9 -Reqiuem (first play)    |                     |                      |
 | Resident Evil Revelations                |                     |                      |
 | Resident Evil Revelations 2              |                     |                      |
