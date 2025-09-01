@@ -97,6 +97,8 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Tom Clancy's Splinter Cell               |                     |                      |
 | Tom Clancy's Splinter Cell: Chaos Theory |                     |                      |
 | Tom Clancy's Splinter Cell: Conviction   |                     |                      |
+| The Division                             |                     |                      |
+| The Division 2                           |                     |                      |
 | The Walking Dead                         |                     |                      |
 | The Walking Dead: A New Frontier         |                     |                      |
 | The Walking Dead: Michonne               |                     |                      |
