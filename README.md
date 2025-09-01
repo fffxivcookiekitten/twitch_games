@@ -45,7 +45,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Life is Strange: Before the Storm        |                     |                      |
 | Life is Strange: True Colors             |                     |                      |
 | LOCKDOWN Protocol                        |                     |                      |
-| Mafia: DE                                | 29.08.2025          |                      |
+| Mafia: DE                                | 29.08.2025          | 31.08.2025           |
 | Mafia 2: DE                              |                     |                      |
 | METAL GEAR SOLID 1                       |                     |                      |
 | METAL GEAR SOLID 2                       |                     |                      |
@@ -65,7 +65,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Red Dead Redemption 2                    |                     |                      |
 | Resident Evil 1 Remastered               |                     |                      |
 | Resident Evil 0                          |                     |                      |
-| Resident Evil 2 Remastered               |                     |                      |
+| Resident Evil 2 Remastered               | 31.08.2025          |                      |
 | Resident Evil 3 Remastered               |                     |                      |
 | Resident Evil 4                          |                     |                      |
 | Resident Evil 4 Remastered               |                     |                      |
