@@ -50,7 +50,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | METAL GEAR SOLID 1                       |                     |                      |
 | METAL GEAR SOLID 2                       |                     |                      |
 | METAL GEAR SOLID 3                       |                     |                      |
-| METAL GEAR SOLID: DELTA (first play)     |                     |                      |
+| METAL GEAR SOLID: DELTA (first play)     | 06.09.2025          |                      |
 | METAL GEAR SOLID 5: GZ                   |                     |                      |
 | METAL GEAR SOLID 5: TPP                  |                     |                      |
 | Metro 2033 Redux                         |                     |                      |
@@ -61,11 +61,11 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | PowerWash Simulator                      |                     |                      |
 | Prey                                     |                     |                      |
 | Punch Club                               |                     |                      |
-| Ready or Not                             |                     |                      |
+| Ready or Not                             | 05.09.2025          |                      |
 | Red Dead Redemption 2                    |                     |                      |
 | Resident Evil 1 Remastered               |                     |                      |
 | Resident Evil 0                          |                     |                      |
-| Resident Evil 2 Remastered               | 31.08.2025          |                      |
+| Resident Evil 2 Remastered               | 31.08.2025          | 05.09.2025           |
 | Resident Evil 3 Remastered               |                     |                      |
 | Resident Evil 4                          |                     |                      |
 | Resident Evil 4 Remastered               |                     |                      |
