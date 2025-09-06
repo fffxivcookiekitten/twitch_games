@@ -13,6 +13,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | A Plague Tale: Requiem                   |                     |                      |
 | Cold War                                 |                     |                      |
 | Conscript                                |                     |                      |
+| Crime Scene Cleaner                      |                     |                      |
 | Cyberpunk 2077                           |                     |                      |
 | DARK SOULS 2                             |                     |                      |
 | DARK SOULS 3                             |                     |                      |
