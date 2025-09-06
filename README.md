@@ -6,6 +6,8 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Age of Mythology: Extended Edition       |                     |                      |
 | Age of Mythology: Retold                 |                     |                      |
 | Among Us                                 |                     |                      |
+| Aragami                                  |                     |                      |
+| Aragami 2                                |                     |                      |
 | Assassin's Creed                         |                     |                      |
 | A Plague Tale: Innocence                 |                     |                      |
 | A Plague Tale: Requiem                   |                     |                      |
@@ -58,6 +60,8 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Metro: Last Light                        |                     |                      |
 | New Cycle                                |                     |                      |
 | No Place Like Home                       |                     |                      |
+| PAYDAY 2                                 |                     |                      |
+| PAYDAY 3                                 |                     |                      |
 | PowerWash Simulator                      |                     |                      |
 | Prey                                     |                     |                      |
 | Punch Club                               |                     |                      |
