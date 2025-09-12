@@ -110,4 +110,5 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | The Walking Dead: Season Two             |                     |                      |
 | The Walking Dead: The Final Season       |                     |                      |
 | The Walking Dead: The Telltale DE Series |                     |                      |
+| Viewfinder                               |                     |                      |
 | Watch Dogs                               |                     |                      |
