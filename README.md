@@ -75,13 +75,12 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Resident Evil 4                          |                     |                      |
 | Resident Evil 4 Remastered               |                     |                      |
 | Resident Evil 5                          |                     |                      |
-| Resident Evil 6                          |                     |                      |
 | Resident Evil 7                          |                     |                      |
+| Resident Evil Revelations                |                     |                      |
+| Resident Evil Revelations 2              |                     |                      |
 | Resident Evil 8                          | 17.08.2025          | 17.08.2025           |
 | Resident Evil 8 - Rose DLC               | 28.08.2025          | 28.08.2025           |
 | Resident Evil 9 - Reqiuem (first play)   |                     |                      |
-| Resident Evil Revelations                |                     |                      |
-| Resident Evil Revelations 2              |                     |                      |
 | Saints Row: The Third (first play)       |                     |                      |
 | Saints Row 4 (first play)                |                     |                      |
 | Serial Cleaners                          |                     |                      |
@@ -95,6 +94,9 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Thief Simulator 2                        |                     |                      |
 | This War of Mine                         |                     |                      |
 | Tom Clancy's Ghost Recon Wildlands       |                     |                      |
+| Tom Clancy's Splinter Cell               |                     |                      |
+| Tom Clancy's Splinter Cell Chaos Theory  |                     |                      |
+| Tom Clancy's Splinter Cell Conviction    |                     |                      |
 | The Division                             |                     |                      |
 | The Division 2                           |                     |                      |
 | The Walking Dead: A New Frontier         |                     |                      |
