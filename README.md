@@ -75,7 +75,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Resident Evil 4                          |                     |                      |
 | Resident Evil 4 Remastered               |                     |                      |
 | Resident Evil 5                          |                     |                      |
-| resident Evil 6                          |                     |                      |
+| Resident Evil 6                          |                     |                      |
 | Resident Evil 7                          |                     |                      |
 | Resident Evil 8                          | 17.08.2025          | 17.08.2025           |
 | Resident Evil 8 - Rose DLC               | 28.08.2025          | 28.08.2025           |
@@ -87,9 +87,6 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Saints Row 4 (first play)                |                     |                      |
 | Spec Ops: The Line                       |                     |                      |
 | STALKER 2: Heart of Chornobyl            |                     |                      |
-| STALKER: Call of Pripyat                 |                     |                      |
-| STALKER: Clear Sky                       |                     |                      |
-| STALKER: Shadow of Chornobyl             |                     |                      |
 | Stardew Valley                           |                     |                      |
 | Stray                                    |                     |                      |
 | The Alters                               |                     |                      |
