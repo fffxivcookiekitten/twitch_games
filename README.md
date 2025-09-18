@@ -82,10 +82,9 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Resident Evil 9 - Reqiuem (first play)   |                     |                      |
 | Resident Evil Revelations                |                     |                      |
 | Resident Evil Revelations 2              |                     |                      |
-| Saints Row 2 (first play)                |                     |                      |
 | Saints Row: The Third (first play)       |                     |                      |
 | Saints Row 4 (first play)                |                     |                      |
-| Spec Ops: The Line                       |                     |                      |
+| Serial Cleaners                          |                     |                      |
 | STALKER 2: Heart of Chornobyl            |                     |                      |
 | Stardew Valley                           |                     |                      |
 | Stray                                    |                     |                      |
