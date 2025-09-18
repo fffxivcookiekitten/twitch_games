@@ -99,8 +99,6 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Thief Simulator 2                        |                     |                      |
 | This War of Mine                         |                     |                      |
 | Tom Clancy's Ghost Recon Wildlands       |                     |                      |
-| Tom Clancy's Splinter Cell               |                     |                      |
-| Tom Clancy's Splinter Cell: Chaos Theory |                     |                      |
 | The Division                             |                     |                      |
 | The Division 2                           |                     |                      |
 | The Walking Dead: A New Frontier         |                     |                      |
