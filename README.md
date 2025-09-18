@@ -101,14 +101,10 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Tom Clancy's Ghost Recon Wildlands       |                     |                      |
 | Tom Clancy's Splinter Cell               |                     |                      |
 | Tom Clancy's Splinter Cell: Chaos Theory |                     |                      |
-| Tom Clancy's Splinter Cell: Conviction   |                     |                      |
 | The Division                             |                     |                      |
 | The Division 2                           |                     |                      |
 | The Walking Dead                         |                     |                      |
 | The Walking Dead: A New Frontier         |                     |                      |
-| The Walking Dead: Michonne               |                     |                      |
-| The Walking Dead: Season Two             |                     |                      |
-| The Walking Dead: The Final Season       |                     |                      |
 | The Walking Dead: The Telltale DE Series |                     |                      |
 | Viewfinder                               |                     |                      |
 | Watch Dogs                               |                     |                      |
