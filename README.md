@@ -59,6 +59,7 @@ you found a game in my list you want to see? no problem. you can make a pull req
 | Metro 2033 Redux                         |                     |                      |
 | Metro Exodus                             |                     |                      |
 | Metro: Last Light                        |                     |                      |
+| Mist Survival (EA)                       |                     |                      |
 | New Cycle                                |                     |                      |
 | No Place Like Home                       |                     |                      |
 | PAYDAY 2                                 |                     |                      |
